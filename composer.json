@@ -1,0 +1,9 @@
+{
+    "name": "priyasonali/importer",
+    "type": "library",
+    "description": "PHP class for importing sql files into MySQL database.",
+    "require": {
+        "php": ">=5.3.0",
+		"ext-mysqli": "*"
+    }
+}
