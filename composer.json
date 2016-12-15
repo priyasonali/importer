@@ -1,5 +1,5 @@
 {
-    "name": "priyasonali/importer",
+    "name": "importer/importer",
     "type": "library",
     "description": "PHP class for importing sql files into MySQL database.",
     "require": {
